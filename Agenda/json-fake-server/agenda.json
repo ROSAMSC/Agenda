@@ -1,0 +1,28 @@
+{
+  "agenda": [
+    {
+      "category": "Actividad Física",
+      "day": 30,
+      "hour": 6,
+      "id": 1,
+      "lastName": "Chuc",
+      "minute": 0,
+      "month": 6,
+      "name": "Elsa",
+      "phoneNumber": "0123456789",
+      "year": 2021
+    },
+    {
+      "category": "Trabajo",
+      "day": 30,
+      "hour": 6,
+      "id": 2,
+      "lastName": "Caamal",
+      "minute": 0,
+      "month": 6,
+      "name": "Rosa",
+      "phoneNumber": "0123456789",
+      "year": 2021
+    }
+  ]
+}
